@@ -21,7 +21,7 @@ poetry shell
 
 ```bash
 # Define a versão do Python local do projeto
-pyenv local 3.11.9  
+pyenv local <versao escolhida> 
 ```
 
 ## 🌱 Versionamento do código — Git  
